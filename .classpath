@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Client/src"/>
+	<classpathentry kind="src" path="Server/src"/>
+	<classpathentry kind="lib" path="Client/dist/CLIENT_1142066_1142014.jar"/>
+	<classpathentry kind="lib" path="Server/dist/SERVER_1142066_1142014.jar"/>
+	<classpathentry kind="output" path="Client/build/classes"/>
+</classpath>
